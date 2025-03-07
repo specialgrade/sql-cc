@@ -1,4 +1,4 @@
-# SQL Project Repository
+# SQL Repository
 In this repository, I have compiled all my SQL scripts, schema designs, queries, and stored procedures, including those from our Information Management Course and various online courses.
 
 ## Folder Structure
