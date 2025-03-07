@@ -1,9 +1,7 @@
 # SQL Project Repository
-
-## Overview
 In this repository, I have compiled all my SQL scripts, schema designs, queries, and stored procedures, including those from our Information Management Course and various online courses.
 
-## Repository Structure
+## Folder Structure
 ```
 📂 SQL-Code-Repo
 ├── 📂 src                        # Source code files
